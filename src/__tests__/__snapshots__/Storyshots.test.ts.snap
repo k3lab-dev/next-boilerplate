@@ -1,0 +1,145 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Components/Heading H 1 1`] = `
+<span
+  className="font-bold text-4xl align-middle"
+>
+  Heading
+</span>
+`;
+
+exports[`Storyshots Components/Heading H 2 1`] = `
+<span
+  className="font-bold text-3xl align-middle"
+>
+  Heading
+</span>
+`;
+
+exports[`Storyshots Components/Heading H 3 1`] = `
+<span
+  className="font-bold text-2xl align-middle"
+>
+  Heading
+</span>
+`;
+
+exports[`Storyshots Components/Heading H 4 1`] = `
+<span
+  className="font-bold text-xl align-middle"
+>
+  Heading
+</span>
+`;
+
+exports[`Storyshots Components/Heading H 5 1`] = `
+<span
+  className="font-bold text-lg align-middle"
+>
+  Heading
+</span>
+`;
+
+exports[`Storyshots Components/Heading H 6 1`] = `
+<span
+  className="font-bold text-base align-middle"
+>
+  Heading
+</span>
+`;
+
+exports[`Storyshots Components/HeadingWithIcon H 1 1`] = `
+Array [
+  <span
+    aria-hidden={true}
+    className="material-icons mr-4 text-4xl align-middle"
+  >
+    info
+  </span>,
+  <span
+    className="font-bold text-4xl align-middle"
+  >
+    Heading
+  </span>,
+]
+`;
+
+exports[`Storyshots Components/HeadingWithIcon H 2 1`] = `
+Array [
+  <span
+    aria-hidden={true}
+    className="material-icons mr-4 text-3xl align-middle"
+  >
+    info
+  </span>,
+  <span
+    className="font-bold text-3xl align-middle"
+  >
+    Heading
+  </span>,
+]
+`;
+
+exports[`Storyshots Components/HeadingWithIcon H 3 1`] = `
+Array [
+  <span
+    aria-hidden={true}
+    className="material-icons mr-4 text-2xl align-middle"
+  >
+    info
+  </span>,
+  <span
+    className="font-bold text-2xl align-middle"
+  >
+    Heading
+  </span>,
+]
+`;
+
+exports[`Storyshots Components/HeadingWithIcon H 4 1`] = `
+Array [
+  <span
+    aria-hidden={true}
+    className="material-icons mr-4 text-xl align-middle"
+  >
+    info
+  </span>,
+  <span
+    className="font-bold text-xl align-middle"
+  >
+    Heading
+  </span>,
+]
+`;
+
+exports[`Storyshots Components/HeadingWithIcon H 5 1`] = `
+Array [
+  <span
+    aria-hidden={true}
+    className="material-icons mr-4 text-lg align-middle"
+  >
+    info
+  </span>,
+  <span
+    className="font-bold text-lg align-middle"
+  >
+    Heading
+  </span>,
+]
+`;
+
+exports[`Storyshots Components/HeadingWithIcon H 6 1`] = `
+Array [
+  <span
+    aria-hidden={true}
+    className="material-icons mr-4 text-base align-middle"
+  >
+    info
+  </span>,
+  <span
+    className="font-bold text-base align-middle"
+  >
+    Heading
+  </span>,
+]
+`;
